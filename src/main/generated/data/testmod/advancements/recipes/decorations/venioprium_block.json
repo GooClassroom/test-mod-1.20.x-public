@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:venioprium_block"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_venioprium_ingot": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "testmod:venioprium_ingot"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_venioprium_ingot",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:venioprium_block"
+    ]
+  },
+  "sends_telemetry_event": false
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "I": {
+      "item": "minecraft:iron_block"
+    },
+    "S": {
+      "item": "testmod:power_stone"
+    },
+    "s": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "  s",
+    " S ",
+    "I  "
+  ],
+  "result": {
+    "item": "testmod:metal_detector"
+  },
+  "show_notification": true
+}

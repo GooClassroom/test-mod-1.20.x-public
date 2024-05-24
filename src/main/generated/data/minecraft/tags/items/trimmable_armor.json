@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "testmod:venioprium_helmet",
+    "testmod:venioprium_chestplate",
+    "testmod:venioprium_leggings",
+    "testmod:venioprium_boots"
+  ]
+}

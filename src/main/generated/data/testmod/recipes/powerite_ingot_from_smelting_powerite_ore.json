@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "group": "power",
+  "ingredient": {
+    "item": "testmod:powerite_ore"
+  },
+  "result": "testmod:powerite_ingot"
+}

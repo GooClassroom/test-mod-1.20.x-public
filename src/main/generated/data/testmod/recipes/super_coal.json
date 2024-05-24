@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "S": {
+      "item": "testmod:power_stone"
+    },
+    "c": {
+      "item": "minecraft:coal"
+    }
+  },
+  "pattern": [
+    "ccc",
+    "cSc",
+    "ccc"
+  ],
+  "result": {
+    "item": "testmod:super_coal"
+  },
+  "show_notification": true
+}

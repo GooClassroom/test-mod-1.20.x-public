@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "testmod:sound_block",
+    "testmod:venioprium_ore",
+    "testmod:venioprium_block"
+  ]
+}

@@ -1,0 +1,11 @@
+// 1.20.1	2024-05-21T20:54:31.1477956	ModFort/Tags for minecraft:block
+fa1bd20f6a6304ad5768e34ee734f37eba664b55 data\fabric\tags\blocks\needs_tool_level_4.json
+6dc35d4e4be81f25b68e86ceb37aced396ca1a16 data\minecraft\tags\blocks\needs_diamond_tool.json
+16c3fa99f223e0389f59da17937bc1ece307d8c6 data\minecraft\tags\blocks\fences.json
+7e7200a625d79cbcf77254e5924e4ddcc68feb76 data\minecraft\tags\blocks\mineable\pickaxe.json
+7e657169a734e9b26f50ea782435ec6f8534a71a data\minecraft\tags\blocks\needs_iron_tool.json
+7d61274dbe78219e23aeb3b92c911e2d4d106e9a data\minecraft\tags\blocks\walls.json
+ff98e3b8f34bd4e8cf8a3c335e21aba252aa0025 data\minecraft\tags\blocks\fence_gates.json
+20d122d77d59dd5055c91bbf8c4e8e4186867c71 data\testmod\tags\blocks\metal_detector_detectable_blocks.json
+5e3f74dca94dad4211a49e167731b7ed4c96a863 data\fabric\tags\blocks\needs_tool_level_5.json
+8a23702b05296c8af5014d6aa6e9265ded85c7d9 data\minecraft\tags\blocks\needs_stone_tool.json

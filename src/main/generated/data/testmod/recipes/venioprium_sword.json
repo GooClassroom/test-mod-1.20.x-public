@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "s": {
+      "item": "minecraft:stick"
+    },
+    "v": {
+      "item": "testmod:venioprium_ingot"
+    }
+  },
+  "pattern": [
+    " v ",
+    " v ",
+    " s "
+  ],
+  "result": {
+    "item": "testmod:venioprium_sword"
+  },
+  "show_notification": true
+}

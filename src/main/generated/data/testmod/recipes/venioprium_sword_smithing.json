@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "testmod:venioprium_ingot"
+  },
+  "base": {
+    "item": "minecraft:netherite_sword"
+  },
+  "result": {
+    "item": "testmod:venioprium_sword"
+  },
+  "template": {
+    "item": "testmod:power_stone"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "testmod:powerite_ore",
+    "testmod:power_block",
+    "testmod:sound_block",
+    "testmod:venioprium_ore",
+    "testmod:end_venioprium",
+    "testmod:venioprium_block"
+  ]
+}

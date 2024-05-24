@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "testmod:block/venioprium_slab"
+    },
+    "type=double": {
+      "model": "testmod:block/venioprium_block"
+    },
+    "type=top": {
+      "model": "testmod:block/venioprium_slab_top"
+    }
+  }
+}

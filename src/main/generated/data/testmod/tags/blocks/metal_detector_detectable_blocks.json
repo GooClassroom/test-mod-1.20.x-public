@@ -1,0 +1,18 @@
+{
+  "replace": false,
+  "values": [
+    "testmod:powerite_ore",
+    "testmod:power_block",
+    "testmod:venioprium_ore",
+    "testmod:venioprium_block",
+    "#minecraft:emerald_ores",
+    "#minecraft:gold_ores",
+    "#minecraft:diamond_ores",
+    "#minecraft:iron_ores",
+    "#minecraft:redstone_ores",
+    "#minecraft:copper_ores",
+    "#minecraft:coal_ores",
+    "#minecraft:lapis_ores",
+    "testmod:end_venioprium"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "item.testmod.ruby": "Ruby",
+  "item.testmod.raw_ruby": "Raw Ruby",
+  "item.testmod.power_stone": "Power Stone",
+  "item.testmod.raw_powerite": "Raw Powerite",
+  "item.testmod.metal_detector": "Metal Detector",
+  "tooltip.testmod.metal_detector.tooltip": "Finds Valuables UnderGround",
+  "item.testmod.powerite_ingot": "Powerite Ingot",
+  "item.testmod.venioprium_ingot": "Venioprium Ingot",
+  "item.testmod.super_coal": "Super Coal",
+  "item.testmod.raw_venioprium": "Raw Venioprium",
+  "item.testmod.venioprium_axe": "Venioprium Axe",
+  "item.testmod.venioprium_sword": "Venioprium Sword",
+  "item.testmod.venioprium_pickaxe": "Venioprium Pickaxe",
+  "item.testmod.venioprium_shovel": "Venioprium Shovel",
+  "item.testmod.venioprium_hoe": "Venioprium Hoe",
+  "block.testmod.venioprium_block":"Block Of Venioprium",
+  "block.testmod.venioprium_ore":"Venioprium Ore",
+  "block.testmod.end_venioprium":"End Stone Venioprium Ore",
+
+
+  "item.testmod.venioprium_helmet": "Venioprium Helmet",
+  "item.testmod.venioprium_chestplate": "Venioprium Chestplate",
+  "item.testmod.venioprium_leggings": "Venioprium Leggings",
+  "item.testmod.venioprium_boots": "Venioprium Boots",
+
+  "block.testmod.venioprium_stairs": "Venioprium Stairs",
+  "block.testmod.venioprium_slab": "Venioprium Slab",
+  "block.testmod.venioprium_button": "Venioprium Button",
+  "block.testmod.venioprium_pressure_plate": "Venioprium Pressure Plate",
+  "block.testmod.venioprium_fence": "Venioprium Fence",
+  "block.testmod.venioprium_fence_gate": "Venioprium Fence Gate",
+  "block.testmod.venioprium_wall": "Venioprium Wall",
+  "block.testmod.venioprium_door": "Venioprium Door",
+  "block.testmod.venioprium_trapdoor": "Venioprium Trapdoor",
+
+  "block.testmod.power_block": "Block Of Powerite",
+  "block.testmod.sound_block": "Sound Block",
+  "block.testmod.powerite_ore": "Powerite Ore",
+  "itemgroup.power": "ModFortSMP"
+}

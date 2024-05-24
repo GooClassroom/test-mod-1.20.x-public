@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "s": {
+      "item": "minecraft:stick"
+    },
+    "v": {
+      "item": "testmod:venioprium_ingot"
+    }
+  },
+  "pattern": [
+    "vsv",
+    "vsv",
+    "   "
+  ],
+  "result": {
+    "item": "testmod:venioprium_fence"
+  },
+  "show_notification": true
+}

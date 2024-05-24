@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "group": "power",
+  "ingredient": {
+    "item": "testmod:venioprium_ore"
+  },
+  "result": "testmod:venioprium_ingot"
+}
